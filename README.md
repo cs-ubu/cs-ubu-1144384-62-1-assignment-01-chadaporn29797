@@ -7,4 +7,4 @@ Assignment:
 * Write CLI application to convert Thai baht to multiple currencies using `https://api.exchangeratesapi.io/latest`
 
 * เขียนโปรแกรม CLI เพื่อแปลงเงินบาทเป็นมูลค่าเงินในสกุลต่างๆ โดยใช้อัตราแลกเปลี่ยนจาก `https://api.exchangeratesapi.io/latest`
-
+/
